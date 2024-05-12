@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "STD_BUS_card")(type "KiCad")(uri "${KIPRJMOD}/STD_BUS_card.pretty")(options "")(descr ""))
+)
